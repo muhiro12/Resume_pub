@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2020年02月27日 現在
+2020年02月28日 現在
 
 ## 職務要約
 
@@ -13,76 +13,46 @@
 
 ## 資格 / 語学
 
-- App Development with Swift Level 1（2020年01月）
-- 基本情報技術者試験（2019年05月）
-- Microsoft Office Specialist Excel 2013（2016年9月）
-- Microsoft Office Specialist Word 2013（2016年9月）
-- TOEIC 600点（2019年04月） / 2ヶ月間の英語留学経験 / 日常会話レベル
-- 普通自動車免許第一種（2012年08月）
+|資格名|取得年月|備考|
+|-|-|-|
+|App Development with Swift Level 1|2020/01||
+|基本情報技術者試験|2019/05||
+|TOEIC 600点|2019/04|2ヶ月間の英語留学経験<br>日常会話レベル|
+|Microsoft Office Specialist Excel 2013|2016/09||
+|Microsoft Office Specialist Word 2013|2016/09||
+|普通自動車免許第一種|2012/08||
 
 ## スキルレベル
 
 ### 言語
 
-#### Swift
-
-- 業務利用歴：1年半 / 業務内での読み書きは特に問題なし
-- Objective-Cからのコンバート可能
-
-#### Java（Android）
-
-- 業務利用歴：1年半 / 業務内での読み書きは特に問題なし
-
-#### Kotlin
-
-- 業務利用歴：半年 / 調べつつであれば実装可能
-
-#### Node.js
-
-- 業務利用歴：半年 / 調べつつであれば実装可能
-
-#### Python
-
-- 業務利用歴：半年 / 調べつつであれば実装可能
+|スキル|業務利用歴 [年]|備考|
+|-|:-:|-|
+|Swift|1.5|業務内での実装は特に問題なし<br>Objective-Cからのコンバート可能|
+|Java（Android）|1.5|業務内での実装は特に問題なし|
+|Kotlin|0.5|調べつつであれば実装可能|
+|Node.js|0.5|調べつつであれば実装可能|
+|Python|0.5|調べつつであれば実装可能|
 
 ### DB
 
-#### MySQL
-
-- 業務利用歴：半年 / 調べつつであれば実装可能
-
-#### Redis
-
-- 業務利用歴：半年 / 調べつつであれば実装可能
+|スキル|業務利用歴 [年]|備考|
+|-|:-:|-|
+|MySQL|0.5|調べつつであれば実装可能|
+|Redis|0.5|調べつつであれば実装可能|
 
 ### OS
 
-#### iOS
-
-- 業務利用歴：1年半
-- Xcode9, 10, 11対応経験あり
-- Carthage, CocoaPods, Swift Package Managerの使用経験
-- Realm, Core Dataの使用経験
-
-#### Android
-
-- 業務利用歴：1年半
-- Android SDK 26, 27, 28対応経験あり
-
-#### Linux
-
-- 業務利用歴：半年
-
-#### Raspberry Pi
-
-- 業務利用歴：半年
+|スキル|業務利用歴 [年]|備考|
+|-|:-:|-|
+|iOS|1.5|Xcode9, 10, 11対応経験あり<br>Carthage, CocoaPods, Swift Package Managerの使用経験<br>Realm, Core Dataの使用経験|
+|Android|1.5|Android SDK 26, 27, 28対応経験あり|
+|Linux|0.5||
+|Raspberry Pi|0.5||
 
 ### その他
 
-#### Docker
-
-- 業務利用歴：1年 / 調べつつであれば実装可能
-
-#### OpenAPI / Swagger
-
-- 業務利用歴：1年 / 調べつつであれば実装可能
+|スキル|業務利用歴 [年]|備考|
+|-|:-:|-|
+|Docker|1.0|業務内での実装は特に問題なし|
+|OpenAPI / Swagger|1.0|業務内での実装は特に問題なし|
