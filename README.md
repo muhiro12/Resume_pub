@@ -34,7 +34,7 @@
 
 |スキル|業務利用歴 [年]|備考|
 |-|:-:|-|
-|Swift|1.5|業務内での実装は特に問題なし<br>Objective-Cからのコンバート可能|
+|Swift|1.5|業務内での実装は特に問題なし<br>Objective-Cからのコンバート可能<br>参考：https://github.com/muhiro12/Yomeru|
 |Java（Android）|1.5|業務内での実装は特に問題なし|
 |Kotlin|0.5|調べつつであれば実装可能|
 |Node.js|0.5|調べつつであれば実装可能|
