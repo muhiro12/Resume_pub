@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2020年04月15日 現在
+2020年07月01日 現在
 
 氏名：-
 
@@ -34,7 +34,7 @@
 
 |スキル|業務利用歴 [年]|備考|
 |-|:-:|-|
-|Swift|1.5|業務内での実装は特に問題なし<br>Objective-Cからのコンバート可能<br>参考：https://github.com/muhiro12/Yomeru|
+|Swift|2.0|業務内での実装は特に問題なし<br>Objective-Cからのコンバート可能<br>参考：https://github.com/muhiro12/Yomeru|
 |Java（Android）|1.5|業務内での実装は特に問題なし|
 |Kotlin|0.5|調べつつであれば実装可能|
 |Node.js|0.5|調べつつであれば実装可能|
@@ -51,8 +51,8 @@
 
 |スキル|業務利用歴 [年]|備考|
 |-|:-:|-|
-|iOS|1.5|Xcode9, 10, 11対応経験あり<br>Carthage, CocoaPods, Swift Package Managerの使用経験<br>Realm, Core Dataの使用経験|
-|Android|1.5|Android SDK 26, 27, 28対応経験あり|
+|iOS|2.0|Xcode9, 10, 11対応経験あり<br>Carthage, CocoaPods, Swift Package Managerの使用経験<br>Realm, Core Dataの使用経験|
+|Android|2.0|Android SDK 26, 27, 28対応経験あり|
 |Linux|0.5||
 |Raspberry Pi|0.5||
 
